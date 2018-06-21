@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake</string>
+    <string name="start">START</string>
+    <string name="game_over">GAME OVER\n\nYOUR SCORE</string>
+    <string name="points">POINTS</string>
+    <string name="high_score">HIGH SCORE</string>
+</resources>

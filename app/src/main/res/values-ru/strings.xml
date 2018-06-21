@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Змейка</string>
+    <string name="start">НАЧАТЬ</string>
+    <string name="game_over">КОНЕЦ ИГРЫ\n\nВАШ СЧЕТ</string>
+    <string name="points">ОЧКИ</string>
+    <string name="high_score">РЕКОРД</string>
+</resources>
